@@ -1,2 +1,2 @@
-all:
-	cc  src/main.c -lraylib -o pong42
+=all:
+	cc main.c -lraylib -o pong42
