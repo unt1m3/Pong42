@@ -174,7 +174,7 @@ void GameDrawing(GameData *data){
 		}else if (data->LastWin == FromPlayer2){
 			DrawText("Well done!", 310, 10, 20, WHITE);
 		}
-		DrawText("v1.0, GPL v2.0, By Runt1m3_", 10, 35, 20, WHITE);
+		DrawText("v1.1, GPL v2.0, By Runt1m3_", 10, 35, 20, WHITE);
 		DrawText("W/S for player 1 movement", 5, 380, 20, WHITE);
 		DrawText("10 points and you win", 5, 360, 20, WHITE);
 		DrawText("I/S for player 2 movement", 305, 380, 20, WHITE);
